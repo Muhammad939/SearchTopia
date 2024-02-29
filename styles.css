@@ -1,0 +1,27 @@
+input {
+    background-color: rgb(144, 224, 231);
+}
+
+::placeholder {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+button {
+    background-color: rgb(131, 13, 131);
+}
+
+* {
+    background-image: url(./img/bgImg.jpeg);
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
